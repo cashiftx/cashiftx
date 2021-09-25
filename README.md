@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cashiftx.
 - 👀 I’m interested in learning, coding, helping.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and JS.
 - 💞️ I’m looking to collaborate on Python Projects.
 - 📫 Contact me @cashiftx@gmail.com
 
